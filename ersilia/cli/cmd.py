@@ -113,3 +113,11 @@ class Command(object):
         """
         m = importlib.import_module("ersilia.cli.commands.dump")
         m.dump_cmd()
+        
+    def performance(self):
+        """
+        Benchmark perfromance
+        
+        """
+        m = importlib.import_module("ersilia.cli.commands.performance")
+        m.performance_cmd()

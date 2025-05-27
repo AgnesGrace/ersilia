@@ -28,6 +28,7 @@ def create_ersilia_cli():
     cmd.info()
     cmd.test()
     cmd.dump()
+    cmd.performance()
 
     # TODO: publishing functionalities
     if is_contributor:
