@@ -1,4 +1,4 @@
-# 🎯 30-60-90 Day Onboarding Plan – My First Months at Ersilia
+# Agnes first three months Onboarding Plan
 
 ## 📝 First 30 Days: Deep Dive & Foundation
 
@@ -58,13 +58,9 @@
 
 ---
 
-## 🚀 How I’ll Succeed
+## Key Plans
 
 - **My Personal onboarding doc:** I’ll hand off my “Newcomer Notes” so every future joiner ramps up faster.
 - **Feedback-focused:** I’ll give and seek honest, actionable feedback (beyond “LGTM!”), and help the team grow.
 - **User-centric mindset:** I’ll “dogfood” Ersilia’s tools and treat every friction as a chance to improve the experience.
 - **Unblock fast:** If stuck, I’ll document the block, propose solutions, and ask the team/community—no silent suffering!
-
----
-
-> **By Month 3, my success isn’t just learning fast—it’s actively making Ersilia better for the next engineer, contributor, and user.**
